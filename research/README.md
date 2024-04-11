@@ -1,6 +1,10 @@
 # YOLOv8 Object Detection Streamlit App
 
-This repository contains a Streamlit app for object detection using the YOLOv8 model. The app allows users to upload images and perform object detection on them.
+This repository contains a Streamlit app for fish detection using the YOLOv8 model. The app allows users to upload images and perform object detection on them.
+
+## Dataset link
+
+fishnet.ai v0.1.2
 
 ## Instructions
 
